@@ -27,13 +27,6 @@ out_pin:none
 ////////////////////////////////////////////////////////////////////////////////
 @init
 
-//Set default mapping
-while
-(
-  map[i] = i;
-  (i += 1) < 128;
-);
-
 statNoteOn = $x90;
 statNoteOff = $x80;
 
