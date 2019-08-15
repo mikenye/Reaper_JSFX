@@ -1,0 +1,29 @@
+/*******************************************************************************
+*  Copyright 2019, Mike Nye                                                    *
+*  This program is free software: you can redistribute it and/or modify        *
+*  it under the terms of the GNU General Public License as published by        *
+*  the Free Software Foundation, either version 3 of the License, or           *
+*  (at your option) any later version.                                         *
+*                                                                              *
+*  This program is distributed in the hope that it will be useful,             *
+*  but WITHOUT ANY WARRANTY; without even the implied warranty of              *
+*  MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the                *
+*  GNU General Public License (http://www.gnu.org/licenses/)for more details.  *
+*******************************************************************************/
+
+desc: Do Nothing
+desc: Do Nothing [MikeNye]
+//use: Does nothing. Can be used to link multiple FX bypasses to in order to switch all FX on a track on/off using automation.
+//author: MikeNye
+
+in_pin:none
+out_pin:none
+
+////////////////////////////////////////////////////////////////////////////////
+//@init
+
+////////////////////////////////////////////////////////////////////////////////
+//@slider
+
+////////////////////////////////////////////////////////////////////////////////
+//@block
